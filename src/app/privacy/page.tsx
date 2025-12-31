@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Privacy Policy | Hoarding Cleanup Pros',
   description: 'Privacy policy for Hoarding Cleanup Pros - how we collect, use, and protect your personal information.',
   alternates: {
-    canonical: 'https://boise-hoarding-cleanup.com/privacy',
+    canonical: 'https://boise-estate-cleanout.com/privacy',
   },
 }
 
@@ -107,8 +107,8 @@ export default function PrivacyPage() {
               If you have questions about this Privacy Policy or our privacy practices, please contact us:
             </p>
             <ul>
-              <li><strong>Phone:</strong> (208) 505-9352</li>
-              <li><strong>Email:</strong> info@boise-hoarding-cleanup.com</li>
+              <li><strong>Phone:</strong> (208) 943-5231</li>
+              <li><strong>Email:</strong> info@topshelfpros.com</li>
             </ul>
           </div>
 
