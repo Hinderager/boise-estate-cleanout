@@ -5,6 +5,7 @@ import './globals.css'
 import { Header } from '@/components/Header'
 import { Footer } from '@/components/Footer'
 import { StructuredData } from '@/components/StructuredData'
+import { BreadcrumbSchema } from '@/components/BreadcrumbSchema'
 import { QuoteFormProvider } from '@/context/QuoteFormContext'
 
 const oswald = Oswald({
@@ -24,8 +25,8 @@ const montserrat = Montserrat({
 export const metadata: Metadata = {
   metadataBase: new URL('https://boise-estate-cleanout.com'),
   title: {
-    default: 'Estate Cleanout Services Boise | Professional Estate Clearing Idaho',
-    template: '%s | Estate Cleanout Boise',
+    default: 'Boise Estate Cleanout | Compassionate Service | Top Shelf',
+    template: '%s | Boise Estate Cleanout',
   },
   description: 'Professional estate cleanout services in Boise, Meridian, Nampa, Caldwell & Eagle Idaho. Compassionate estate clearing, donation coordination, and complete property cleanouts. Licensed & insured. Call (208) 943-5231.',
   keywords: 'estate cleanout Boise, estate clearing Idaho, property cleanout, probate cleanout, estate sale cleanup, deceased estate cleanout, inheritance cleanout, Meridian estate cleanout, Nampa estate cleanout',
@@ -58,6 +59,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="icon" href="/favicon.png" type="image/png" sizes="48x48" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
         <StructuredData />
+        <BreadcrumbSchema siteName="Top Shelf Estate Cleanout" siteUrl="https://boise-estate-cleanout.com" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://www.google-analytics.com" />
         <link rel="dns-prefetch" href="https://connect.facebook.net" />
