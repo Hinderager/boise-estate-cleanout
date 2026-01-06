@@ -2,6 +2,7 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 import { Phone, CheckCircle, ArrowRight } from 'lucide-react'
 import { QuickQuoteBar } from '@/components/QuickQuoteBar'
+import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
   title: 'Property Cleanout Services | Boise Estate Cleanout',
@@ -18,6 +19,7 @@ export default function PropertyCleanoutServicesPage() {
           <p className="text-xl text-gray-200 max-w-3xl mx-auto">Complete property clearing for inherited properties, rentals, and foreclosures.</p>
         </div>
       </section>
+      <VisibleBreadcrumb />
       <QuickQuoteBar />
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">

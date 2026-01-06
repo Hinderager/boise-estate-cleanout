@@ -2,6 +2,7 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 import { CheckCircle, Phone, Clock, Shield } from 'lucide-react'
 import { QuickQuoteBar } from '@/components/QuickQuoteBar'
+import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
   title: 'Hoarding Cleanup Garden City Idaho | Top Shelf Estate Cleanout',
@@ -20,6 +21,7 @@ export default function GardenCityHoardingCleanupPage() {
           <p className="text-xl text-gray-200 max-w-3xl mx-auto">Sensitive hoarding situation cleanup for Garden City families.</p>
         </div>
       </section>
+      <VisibleBreadcrumb />
       <QuickQuoteBar />
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
