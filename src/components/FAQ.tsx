@@ -24,7 +24,7 @@ export const faqs = [
   },
   {
     question: 'How much does estate cleanout cost?',
-    answer: 'Costs vary based on property size and contents. Most estate cleanouts in the Boise area range from $500 for small apartments to $3,000+ for larger homes with extensive contents. We provide free, no-obligation estimates before any work begins.'
+    answer: 'Costs vary based on property size, the amount and condition of belongings, accessibility, timeframe, and whether items can be donated vs. disposed of. Small apartments are the easiest end of the range, while larger homes with full basements, garages, and extensive contents take more work. We provide free, no-obligation estimates before any work begins.'
   },
   {
     question: 'Do I need to be present during the cleanout?',

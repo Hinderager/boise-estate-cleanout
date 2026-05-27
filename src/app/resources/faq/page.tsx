@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 const faqs = [
   {
     question: 'How much does an estate cleanout cost?',
-    answer: 'The cost depends on the size of the property, amount of items, and what needs to be done. Most residential estate cleanouts range from $500 to $5,000. We provide free, no-obligation quotes after seeing the property.',
+    answer: 'The cost depends on the size of the property, the amount and type of items, accessibility, timeframe, and whether items can be donated or need to be hauled to disposal. We provide free, no-obligation quotes after seeing the property.',
   },
   {
     question: 'How long does an estate cleanout take?',

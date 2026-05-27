@@ -25,28 +25,25 @@ export default function PricingPage() {
               <p>Estate cleanout costs vary based on several factors. While we can't give you an exact price without seeing the property, here's what affects the cost and what you can generally expect to pay.</p>
             </div>
 
-            <h2 className="text-3xl font-bold text-dark-blue mb-8">Typical Price Ranges</h2>
+            <h2 className="text-3xl font-bold text-dark-blue mb-8">Project Sizes We Handle</h2>
 
             <div className="grid md:grid-cols-3 gap-6 mb-12">
               <div className="bg-gray-50 p-6 rounded-lg border-2 border-gray-200">
                 <Home className="w-10 h-10 text-[#FFC845] mb-3" />
                 <h3 className="text-xl font-bold text-dark-blue mb-2">Small Jobs</h3>
-                <p className="text-3xl font-bold text-dark-blue mb-2">$500-$1,500</p>
-                <p className="text-gray-600 text-sm">Apartments, single rooms, or minimal cleanouts</p>
+                <p className="text-gray-600 text-sm">Apartments, single rooms, or minimal cleanouts. Usually the simplest scope.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-2 border-[#FFC845]">
                 <Home className="w-10 h-10 text-[#FFC845] mb-3" />
                 <h3 className="text-xl font-bold text-dark-blue mb-2">Average Jobs</h3>
-                <p className="text-3xl font-bold text-dark-blue mb-2">$1,500-$3,500</p>
-                <p className="text-gray-600 text-sm">Typical 3-bedroom homes, moderate amount of belongings</p>
+                <p className="text-gray-600 text-sm">Typical 3-bedroom homes with a moderate amount of belongings.</p>
               </div>
 
               <div className="bg-gray-50 p-6 rounded-lg border-2 border-gray-200">
                 <Home className="w-10 h-10 text-[#FFC845] mb-3" />
                 <h3 className="text-xl font-bold text-dark-blue mb-2">Large Jobs</h3>
-                <p className="text-3xl font-bold text-dark-blue mb-2">$3,500-$8,000+</p>
-                <p className="text-gray-600 text-sm">Large homes, full basements/garages, or hoarding situations</p>
+                <p className="text-gray-600 text-sm">Large homes, full basements/garages, or hoarding situations. The most involved scope.</p>
               </div>
             </div>
 
