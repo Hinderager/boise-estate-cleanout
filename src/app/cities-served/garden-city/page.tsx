@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Estate Cleanout Services Garden City Idaho | Top Shelf',
+  title: 'Estate Cleanout Services Garden City Idaho | Boise Estate Cleanout',
   description: 'Professional estate cleanout services in Garden City, Idaho. Compassionate, respectful service for families. Licensed & insured. Call (208) 943-5231.',
   keywords: ['estate cleanout Garden City', 'probate cleanout Garden City Idaho', 'senior downsizing Garden City', 'property cleanout Garden City'],
   alternates: {

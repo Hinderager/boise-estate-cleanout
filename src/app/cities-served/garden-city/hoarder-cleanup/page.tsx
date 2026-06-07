@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Hoarding Cleanup Garden City Idaho | Top Shelf Estate Cleanout',
+  title: 'Hoarding Cleanup Garden City Idaho | Boise Estate Cleanout',
   description: 'Sensitive hoarding situation cleanup in Garden City, Idaho. Fast, compassionate service. Call (208) 943-5231 for a free quote.',
   alternates: {
     canonical: 'https://boise-estate-cleanout.com/cities-served/garden-city/hoarder-cleanup',

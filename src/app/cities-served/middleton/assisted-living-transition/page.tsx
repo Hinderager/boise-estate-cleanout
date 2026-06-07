@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Assisted Living Transitions Middleton Idaho | Top Shelf Estate Cleanout',
+  title: 'Assisted Living Transitions Middleton Idaho | Boise Estate Cleanout',
   description: 'Help moving to assisted living in Middleton, Idaho. Fast, compassionate service. Call (208) 943-5231 for a free quote.',
   alternates: {
     canonical: 'https://boise-estate-cleanout.com/cities-served/middleton/assisted-living-transition',

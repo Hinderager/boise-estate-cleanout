@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Estate Cleanout Lochsa Falls Meridian | Top Shelf',
+  title: 'Estate Cleanout Lochsa Falls Meridian | Boise Estate Cleanout',
   description: 'Estate Cleanout services in Lochsa Falls, Meridian, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['estate cleanout Lochsa Falls', 'estate cleanout Lochsa Falls Meridian', 'Lochsa Falls meridian estate cleanout'],
   alternates: {

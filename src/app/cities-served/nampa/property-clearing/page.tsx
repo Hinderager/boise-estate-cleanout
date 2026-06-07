@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Full Property Clearing Nampa Idaho | Top Shelf Estate Cleanout',
+  title: 'Full Property Clearing Nampa Idaho | Boise Estate Cleanout',
   description: 'Complete property clearing services in Nampa, Idaho. Fast, compassionate service. Call (208) 943-5231 for a free quote.',
   alternates: {
     canonical: 'https://boise-estate-cleanout.com/cities-served/nampa/property-clearing',

@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Senior Downsizing Help Middleton Idaho | Top Shelf Estate Cleanout',
+  title: 'Senior Downsizing Help Middleton Idaho | Boise Estate Cleanout',
   description: 'Compassionate downsizing assistance in Middleton, Idaho. Fast, compassionate service. Call (208) 943-5231 for a free quote.',
   alternates: {
     canonical: 'https://boise-estate-cleanout.com/cities-served/middleton/senior-downsizing',

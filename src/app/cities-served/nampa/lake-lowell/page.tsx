@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Estate Cleanout Lake Lowell Nampa | Top Shelf',
+  title: 'Estate Cleanout Lake Lowell Nampa | Boise Estate Cleanout',
   description: 'Estate Cleanout services in Lake Lowell, Nampa, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['estate cleanout Lake Lowell', 'estate cleanout Lake Lowell Nampa', 'Lake Lowell nampa estate cleanout'],
   alternates: {

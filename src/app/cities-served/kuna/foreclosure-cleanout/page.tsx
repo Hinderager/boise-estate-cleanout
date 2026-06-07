@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Foreclosure Cleanout Kuna Idaho | Top Shelf Estate Cleanout',
+  title: 'Foreclosure Cleanout Kuna Idaho | Boise Estate Cleanout',
   description: 'Property cleanouts for foreclosures in Kuna, Idaho. Fast, compassionate service. Call (208) 943-5231 for a free quote.',
   alternates: {
     canonical: 'https://boise-estate-cleanout.com/cities-served/kuna/foreclosure-cleanout',

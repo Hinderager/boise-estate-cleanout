@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Full Property Clearing Mountain Home Idaho | Top Shelf Estate Cleanout',
+  title: 'Full Property Clearing Mountain Home Idaho | Boise Estate Cleanout',
   description: 'Complete property clearing services in Mountain Home, Idaho. Fast, compassionate service. Call (208) 943-5231 for a free quote.',
   alternates: {
     canonical: 'https://boise-estate-cleanout.com/cities-served/mountain-home/property-clearing',

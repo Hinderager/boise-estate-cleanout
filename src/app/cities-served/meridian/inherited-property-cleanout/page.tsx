@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Inherited Property Cleanout Meridian Idaho | Top Shelf Estate Cleanout',
+  title: 'Inherited Property Cleanout Meridian Idaho | Boise Estate Cleanout',
   description: 'Clear out inherited properties in Meridian, Idaho. Fast, compassionate service. Call (208) 943-5231 for a free quote.',
   alternates: {
     canonical: 'https://boise-estate-cleanout.com/cities-served/meridian/inherited-property-cleanout',

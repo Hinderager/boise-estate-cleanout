@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Estate Cleanout The Bench Boise | Top Shelf',
+  title: 'Estate Cleanout The Bench Boise | Boise Estate Cleanout',
   description: 'Estate Cleanout services in The Bench, Boise, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['estate cleanout The Bench', 'estate cleanout The Bench Boise', 'The Bench boise estate cleanout'],
   alternates: {

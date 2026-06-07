@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Assisted Living Transitions Mountain Home Idaho | Top Shelf Estate Cleanout',
+  title: 'Assisted Living Transitions Mountain Home Idaho | Boise Estate Cleanout',
   description: 'Help moving to assisted living in Mountain Home, Idaho. Fast, compassionate service. Call (208) 943-5231 for a free quote.',
   alternates: {
     canonical: 'https://boise-estate-cleanout.com/cities-served/mountain-home/assisted-living-transition',

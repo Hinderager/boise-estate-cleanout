@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Probate Property Cleanout Garden City Idaho | Top Shelf Estate Cleanout',
+  title: 'Probate Property Cleanout Garden City Idaho | Boise Estate Cleanout',
   description: 'Fast cleanouts for probate properties in Garden City, Idaho. Fast, compassionate service. Call (208) 943-5231 for a free quote.',
   alternates: {
     canonical: 'https://boise-estate-cleanout.com/cities-served/garden-city/probate-cleanout',

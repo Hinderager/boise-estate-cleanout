@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Estate Cleanout Karcher Nampa | Top Shelf',
+  title: 'Estate Cleanout Karcher Nampa | Boise Estate Cleanout',
   description: 'Estate Cleanout services in Karcher, Nampa, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['estate cleanout Karcher', 'estate cleanout Karcher Nampa', 'Karcher nampa estate cleanout'],
   alternates: {

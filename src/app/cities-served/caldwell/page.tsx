@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Estate Cleanout Services Caldwell Idaho | Top Shelf',
+  title: 'Estate Cleanout Services Caldwell Idaho | Boise Estate Cleanout',
   description: 'Professional estate cleanout services in Caldwell, Idaho. Compassionate, respectful service for families. Licensed & insured. Call (208) 943-5231.',
   keywords: ['estate cleanout Caldwell', 'probate cleanout Caldwell Idaho', 'senior downsizing Caldwell', 'property cleanout Caldwell'],
   alternates: {

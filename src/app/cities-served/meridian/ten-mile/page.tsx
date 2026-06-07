@@ -6,7 +6,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Estate Cleanout Ten Mile Area Meridian | Top Shelf',
+  title: 'Estate Cleanout Ten Mile Area Meridian | Boise Estate Cleanout',
   description: 'Estate Cleanout services in Ten Mile Area, Meridian, Idaho. Local team, fair prices, same-day service available. Call (208) 943-5231.',
   keywords: ['estate cleanout Ten Mile Area', 'estate cleanout Ten Mile Area Meridian', 'Ten Mile Area meridian estate cleanout'],
   alternates: {

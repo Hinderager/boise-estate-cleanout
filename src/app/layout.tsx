@@ -25,7 +25,7 @@ const montserrat = Montserrat({
 export const metadata: Metadata = {
   metadataBase: new URL('https://boise-estate-cleanout.com'),
   title: {
-    default: 'Boise Estate Cleanout | Compassionate Service | Top Shelf',
+    default: 'Boise Estate Cleanout | Compassionate Service',
     template: '%s | Boise Estate Cleanout',
   },
   description: 'Professional estate cleanout services in Boise, Meridian, Nampa, Caldwell & Eagle Idaho. Compassionate estate clearing, donation coordination, and complete property cleanouts. Licensed & insured. Call (208) 943-5231.',
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_US',
     url: 'https://boise-estate-cleanout.com',
-    siteName: 'Top Shelf Estate Cleanout',
+    siteName: 'Boise Estate Cleanout',
     title: 'Estate Cleanout Services Boise | Professional Estate Clearing Idaho',
     description: 'Professional estate cleanout services in Boise and the Treasure Valley. Compassionate estate clearing, donation coordination, and complete property cleanouts. Licensed & insured.',
     images: [{ url: '/og-image.jpg', width: 1200, height: 630, alt: 'Boise Estate Cleanout - Boise Idaho' }],
@@ -56,7 +56,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" className={`${oswald.variable} ${montserrat.variable}`}>
         <StructuredData />
-        <BreadcrumbSchema siteName="Top Shelf Estate Cleanout" siteUrl="https://boise-estate-cleanout.com" />
+        <BreadcrumbSchema siteName="Boise Estate Cleanout" siteUrl="https://boise-estate-cleanout.com" />
         <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="preconnect" href="https://www.google-analytics.com" />
