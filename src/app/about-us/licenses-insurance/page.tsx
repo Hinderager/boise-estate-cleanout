@@ -3,7 +3,7 @@ import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { Shield, CheckCircle, Phone, FileText } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Licenses & Insurance | Boise Estate Cleanout',
+  title: 'Licenses & Insurance',
   description: 'Top Shelf Estate Cleanout is fully licensed and insured in Idaho. Learn about our credentials and coverage.',
   alternates: { canonical: 'https://boise-estate-cleanout.com/about-us/licenses-insurance' },
 }

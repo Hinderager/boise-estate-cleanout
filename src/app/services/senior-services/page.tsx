@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Senior Services | Boise Estate Cleanout',
+  title: 'Senior Services',
   description: 'Compassionate downsizing and moving help for seniors and their families. Call (208) 943-5231.',
   alternates: { canonical: 'https://boise-estate-cleanout.com/services/senior-services' },
 }

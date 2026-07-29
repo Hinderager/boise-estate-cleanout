@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Assisted Living Transitions Caldwell Idaho | Boise Estate Cleanout',
+  title: 'Assisted Living Transitions Caldwell Idaho',
   description: 'Help moving to assisted living in Caldwell, Idaho. Fast, compassionate service. Call (208) 943-5231 for a free quote.',
   alternates: {
     canonical: 'https://boise-estate-cleanout.com/cities-served/caldwell/assisted-living-transition',

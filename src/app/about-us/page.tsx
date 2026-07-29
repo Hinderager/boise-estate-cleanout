@@ -4,7 +4,7 @@ import Link from 'next/link'
 import { CheckCircle, Phone, Award, Shield, Users } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'About Us | Boise Estate Cleanout',
+  title: 'About Us',
   description: 'Learn about Top Shelf Estate Cleanout. Local experts serving the Treasure Valley with compassionate, professional estate cleanout services.',
   alternates: { canonical: 'https://boise-estate-cleanout.com/about-us' },
 }

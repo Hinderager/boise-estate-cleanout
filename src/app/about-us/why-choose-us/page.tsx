@@ -3,7 +3,7 @@ import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { Phone, Heart, Clock, Shield, Users, ThumbsUp, DollarSign, Truck } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Why Choose Us | Boise Estate Cleanout',
+  title: 'Why Choose Us',
   description: 'Discover what makes Top Shelf Estate Cleanout different. Compassionate service, local expertise, and respect for your family.',
   alternates: { canonical: 'https://boise-estate-cleanout.com/about-us/why-choose-us' },
 }

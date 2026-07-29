@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Hoarding Cleanup Caldwell Idaho | Boise Estate Cleanout',
+  title: 'Hoarding Cleanup Caldwell Idaho',
   description: 'Sensitive hoarding situation cleanup in Caldwell, Idaho. Fast, compassionate service. Call (208) 943-5231 for a free quote.',
   alternates: {
     canonical: 'https://boise-estate-cleanout.com/cities-served/caldwell/hoarder-cleanup',

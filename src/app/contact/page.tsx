@@ -3,7 +3,7 @@ import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { Phone, Mail, MapPin, Clock } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Contact Us | Boise Estate Cleanout',
+  title: 'Contact Us',
   description: 'Contact Top Shelf Estate Cleanout for compassionate estate cleanout services in the Treasure Valley. Call (208) 943-5231.',
   alternates: { canonical: 'https://boise-estate-cleanout.com/contact' },
 }

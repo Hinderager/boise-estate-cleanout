@@ -5,7 +5,7 @@ import { QuickQuoteBar } from '@/components/QuickQuoteBar'
 import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 
 export const metadata: Metadata = {
-  title: 'Inherited Property Cleanout Garden City Idaho | Boise Estate Cleanout',
+  title: 'Inherited Property Cleanout Garden City Idaho',
   description: 'Clear out inherited properties in Garden City, Idaho. Fast, compassionate service. Call (208) 943-5231 for a free quote.',
   alternates: {
     canonical: 'https://boise-estate-cleanout.com/cities-served/garden-city/inherited-property-cleanout',

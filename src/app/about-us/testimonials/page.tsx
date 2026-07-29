@@ -3,7 +3,7 @@ import { VisibleBreadcrumb } from '@/components/VisibleBreadcrumb'
 import { Phone, Star, Quote } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Customer Testimonials | Boise Estate Cleanout',
+  title: 'Customer Testimonials',
   description: 'Read reviews from families who have worked with Top Shelf Estate Cleanout in the Treasure Valley.',
   alternates: { canonical: 'https://boise-estate-cleanout.com/about-us/testimonials' },
 }

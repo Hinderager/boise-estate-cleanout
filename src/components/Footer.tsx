@@ -12,7 +12,7 @@ export function Footer() {
             <h4 className="text-xl font-bold mb-4 text-light-blue">Resources</h4>
             <ul className="space-y-2">
               <li>
-                <Link href="/estate-cleanout-guide" className="text-white/80 hover:text-white transition-colors">
+                <Link href="/resources/estate-cleanout-guide" className="text-white/80 hover:text-white transition-colors">
                   Estate Cleanout Guide
                 </Link>
               </li>
@@ -22,12 +22,12 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/probate-cleanouts" className="text-white/80 hover:text-white transition-colors">
+                <Link href="/resources/probate-cleanouts" className="text-white/80 hover:text-white transition-colors">
                   Probate Cleanouts
                 </Link>
               </li>
               <li>
-                <Link href="/downsizing-tips" className="text-white/80 hover:text-white transition-colors">
+                <Link href="/resources/downsizing-tips" className="text-white/80 hover:text-white transition-colors">
                   Downsizing Tips
                 </Link>
               </li>
